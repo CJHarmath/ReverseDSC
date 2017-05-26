@@ -329,5 +329,3 @@ function Save-Credentials([System.Management.Automation.PSCredential] $creds)
         return $false
     }
 }
-
-Export-ModuleMember -Function *

@@ -1,2 +1,2 @@
-# ReverseDSC
-Repository for the ReverseDSC Core Engine
+# List of ReverseDSC Scripts
+* SharePointDSC.Reverse -> http://aka.ms/ReverseDSC
