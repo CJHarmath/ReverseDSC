@@ -23,6 +23,8 @@
                         "Get-Credentials",
                         "Resolve-Credentials"
                         "Save-Credentials")
+    FunctionsToExport = @()
+    AliasesToExport = @()
     PrivateData = @{
         PSData = @{
 
